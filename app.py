@@ -9,7 +9,7 @@ from pathlib import Path
 st.set_page_config(page_title="Programação de Obras", page_icon="🛣️", layout="wide")
 
 # ========================= CONFIG =========================
-BASES_JSON_URL_FALLBACK = "https://grupoecorodovias-my.sharepoint.com/:u:/g/personal/leonardo_gomes_ecovias_com_br/EWd2C9GuYcpIhtR1mpajN0ABWz16fQsLJD-icy-_JkNUzA?download=1"
+BASES_JSON_URL_FALLBACK = "https://1drv.ms/u/c/6e029a421df305a4/IQCdKvbIztUSRbAWMsAVcSsbAUSFkbtdL8kVmXuzd6FegR0?download=1"
 
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
