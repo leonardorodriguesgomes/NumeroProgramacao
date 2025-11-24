@@ -9,7 +9,7 @@ from pathlib import Path
 st.set_page_config(page_title="Programação de Obras", page_icon="🛣️", layout="wide")
 
 # ========================= CONFIG =========================
-BASES_JSON_URL_FALLBACK = "https://1drv.ms/u/c/6e029a421df305a4/IQCdKvbIztUSRbAWMsAVcSsbAUSFkbtdL8kVmXuzd6FegR0?download=1"
+BASES_JSON_URL_FALLBACK = ""
 
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
