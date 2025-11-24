@@ -9,7 +9,7 @@ from pathlib import Path
 st.set_page_config(page_title="Programação de Obras", page_icon="🛣️", layout="wide")
 
 # ========================= CONFIG =========================
-BASES_JSON_URL_FALLBACK = ""
+BASES_JSON_URL_FALLBACK = "https://www.dropbox.com/scl/fi/x19ep7elgqnj3b1oibbmr/bases_km.json?rlkey=fgcifm3j09a0d4qequq8d6mmh&st=uo3ehhgy&dl=1"
 
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
